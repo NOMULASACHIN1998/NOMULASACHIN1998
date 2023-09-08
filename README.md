@@ -1,4 +1,3 @@
-![logo](https://github.com/NOMULASACHIN1998/NOMULASACHIN1998/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Nomula</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
@@ -26,10 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomulasachin1998&show_icons=true&locale=en" alt="nomulasachin1998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomulasachin1998&" alt="nomulasachin1998" /></p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomulasachin1998&show_icons=true&locale=en&layout=compact" alt="nomulasachin1998" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomulasachin1998&show_icons=true&locale=en" alt="nomulasachin1998" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomulasachin1998&" alt="nomulasachin1998" /></p>
+
