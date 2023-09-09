@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/nomulasachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/nomulasachin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-nomula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-nomula/" height="30" width="40" /></a>
+<a href="https://twitter.com/nomulasachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomulasachin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-nomula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-nomula" height="30" width="40" /></a>
 <a href="https://instagram.com/sachin_son_of_satyanarayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin_son_of_satyanarayana" height="30" width="40" /></a>
 </p>
 
