@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomulasachin1998&label=Profile%20views&color=0e75b6&style=flat" alt="nomulasachin1998" /> </p>
 
-- 🌱 I’m currently learning **MAchine Learning,Deep Learning,Natural language Processing**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Natural language Processing**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/NOMULA-SACHIN](https://codebasics.io/portfolio/NOMULA-SACHIN)
 
