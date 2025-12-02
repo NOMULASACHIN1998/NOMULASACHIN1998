@@ -1,4 +1,4 @@
-![logo](https://github.com/NOMULASACHIN1998/NOMULASACHIN1998/blob/main/Turning Data into Intelligence (1).png)
+![logo](https://github.com/NOMULASACHIN1998/NOMULASACHIN1998/Turning Data into Intelligence (1).png)
 <h1 align="center">Hi 👋, I'm Sachin Nomula</h1>
 <h3 align="center">A passionate AI/Ml Engineer from India</h3>
 
